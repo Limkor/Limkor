@@ -10,6 +10,6 @@ I am interested in:
 I have experience in:
 - Python ( 1 years)
 - C++ (2 years)
-
+- Java (1 years)
 
 I am available for hire. Contact me if you have an interesting opportunity :)

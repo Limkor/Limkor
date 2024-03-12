@@ -1,5 +1,5 @@
 ## Hello, my friend!
-My name is Ilya and I am a student at RTU MIREA.
+My name is Michael and I am a student at RTU MIREA.
 
 
 I am interested in:

@@ -3,7 +3,7 @@
 ## &#x1f91d; Hello, my friend!</h1>
 My name is Michael and I study at RTU MIREA. Below is information about my repo and activities.
 
-I am member of @DevComOps.
+I am member of this [organization](https://github.com/DevComOps).
 
 
 ## &#x1f527; Technologies & Tools

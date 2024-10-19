@@ -1,18 +1,10 @@
-![Header](https://github.com/Limkor/Limkor/blob/main/file..png)
-
-## &#x1f91d; Hello, my friend!</h1>
-My name is Michael and I study at RTU MIREA. Below is information about my repo and activities.
-
-I am member of this [organization](https://github.com/DevComOps).
-
-
-## &#x1f527; Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=eceff4)
-
-
-## &#x1f4c8; GitHub Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Limkor&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Limkor&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Limkor&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Limkor&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Limkor&theme=nord_bright)
+<h3 align="center">Hi, I'm Michael N.</a></h3>
+    <p align="center"> Welcome to my GitHub! </p>
+    <p align="center">Discover my projects and coding journey!</p>
+    <h4 align="left">My Projects:</h4>
+    <table align="center">
+        <tr>
+            <td><a href="https://github.com/min2109/CrossRoad">CrossRoad</a> - Web app project</td
+        </tr>
+    </table>
+  
